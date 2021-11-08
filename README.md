@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @R19R
 - 👀 I’m interested in Python | Flask | JavaScript
-- 🌱 I’m currently learning React.js & Node.js
+- 🌱 I’m currently learning React.js, AngularJS, Node.js
 - 📫 How to reach me mail2rahul95r@gmail.com
 
 <!---
